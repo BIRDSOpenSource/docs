@@ -2,34 +2,39 @@
 title: Home
 layout: home
 ---
+*Introduction*
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+This introduction is an overview of the project, how it is organised, and how it works.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+*What is BIRDS-OSP?*
 
-More specifically, the created site:
+The BIRDS Open Source Project is a group of resources aimed at educational institutions and space agencies in emerging space faring nations interested in developing the capacity of their locality.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+The aim is to get as many countries as possible into the space race.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+BIRDS-OSP offers teaching guids, tutorials, and design, manufacturing and procedural documents to help you get a satellite into space.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+BIRDS-OSP is free and transparent. The source files for all past flight heritage can be found on [Github].
 
-To get started with creating a site, simply:
+BIRDS-OSP is an intiative of LaSiene, a labotaotry out of Kyushu Institute of Technology.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+*Requirements*
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+What does it take to build and launch a satellite?
+
+- `Money` - how to fund it
+
+- `Tools and Materials` - where to buy parts
+
+- `Testing facilities` - where to verify and validate your finished products.[^1]
+
+*Your responsibilities as a user*
+
 
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
+
+[GitHub]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
