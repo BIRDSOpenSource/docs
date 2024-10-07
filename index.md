@@ -30,6 +30,9 @@ What does it take to build and launch a satellite?
 
 *Your responsibilities as a user*
 
+*Getting Started*
+
+Once you've read through the introduction and yoou definitelyunderstand, you can check out the [README] on the next steps to take.
 
 ----
 
@@ -37,4 +40,4 @@ What does it take to build and launch a satellite?
 
 
 [GitHub]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
+[README]: https://github.com/BIRDSOpenSource/docs/blob/main/README.md
