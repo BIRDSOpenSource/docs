@@ -1,8 +1,6 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: BIRDS-OSP
+description: The BIRDS Open Source Project is a collection of starter resources and guides to help build your nation's space capacity.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://birdsopensource.github.io/docs/
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
