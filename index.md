@@ -18,6 +18,15 @@ BIRDS-OSP is free and transparent. The source files for all past flight heritage
 
 BIRDS-OSP is an intiative of LaSiene, a labotaotry out of Kyushu Institute of Technology.
 
+
+*Mission*
+Experience the entire cycle of a satellite project, from mission definition to operation, in a hands-on manner.
+
+Have a strategy for sustainability after the training ends.
+
+It should be emphasized that the primary goal is not the building of a satellite, but to have a long-term and sustainable space program established in each member country.=
+
+
 *Requirements*
 
 What does it take to build and launch a satellite?
